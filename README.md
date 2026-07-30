@@ -53,14 +53,14 @@ The same article in four different viewers:
 - [Current BHL viewer](https://www.biodiversitylibrary.org/item/244617)
 - [EJT PDF viewer](https://europeanjournaloftaxonomy.eu/index.php/ejt/article/view/76/25)
 - [BHL Light viewer](https://iphylo.org/bhl-light/item/244617)
-- [Experimental responsive viewer](https://rdmpage.github.io/responsive-viewer/)
+- [Experimental responsive viewer](https://rdmpage.github.io/responsive-viewer/) (code on [GitHub](https://github.com/rdmpage/responsive-viewer))
 
 ![bhlviewer](bhlviewer.png)
 ![pdf](pdf.png)
 ![bhl-light](bhl-light.png)
 ![responsive](responsive.png)
 
-The final viewer displays both the BHL page images, but also OCR text from [Datalab](https://www.datalab.to), and a IIIF viewer. The later is a standard widely used in the museum and archive world to display images. We will meet IIIF again below.
+The final viewer displays both the BHL page images, but also OCR text from [Datalab](https://www.datalab.to), and an IIIF viewer. The later is a standard widely used in the museum and archive world to display images. We will meet IIIF again below.
 
 We have a short quiz:
 
@@ -72,7 +72,7 @@ We have a short quiz:
 ## BHL search
 
 
-
+to do
 
 
 
@@ -155,23 +155,22 @@ Qianqian Hiris Gu and Ben Hartley from The Natural History Museum in London are 
 
 ## BHL and geography
 
-In this part of the workshop we explore geographic interfaces to literature data.
+In this part of the workshop we explore geographic interfaces to literature data. There are various interfaces to biodiversity literature, such as [JournalMap](https://www.journalmap.org) and [BioStor](https://biostor.org/map). While many will be familiar with point-based geographic data, other approaches are available such as grids (e.g., [H3](https://h3geo.org)). The defunct [Frankenplace](http://www.frankenplace.com/) project took a novel approach which mapped text terms to a geographic grid so your search would highlight regions of the world that matched that term (see [Frankenplace, geospatial search, and discrete global grid systems](https://iphylo.blogspot.com/2019/05/frankenplace-geospatial-search-and.html)).
+
+### BioStor map
+
+BioStor comprises the largest source of articles in BHL, and also serves as an experimental platform for displaying BHL content. For example, for each article BioStor finds in BHL it looks for latitude and longitude pairs in the text and puts those on a [map](https://biostor.org/map). You can browse the map, select regions, and see what papers mention those localities. You can also upload GeoJSON (e.g., for an island) and discover what papers include that region in their content.
 
 
+### Putting maps on the map (Allmaps)
 
-5. Map search
+[Allmaps](https://allmaps.org) is a fascinating project where people can add an image of a map to a modern map. The software will handle things such as align the map to latitude and longitude points, rotate and stretch the map image as required. In  order to work Allmaps needs the map image to be available in the [IIIF](https://iiif.io) format.
 
-- Intro: searching by geography, various interfaces, maps as dots, maps as clusters of dots, 
-maps as grids (e.g., H3), frankenplace (dead) see https://iphylo.blogspot.com/2019/05/frankenplace-geospatial-search-and.html
--- journal map as one example https://www.journalmap.org/search
--- biostor as another,m browse map, draw simple region, upload a polygon https://biostor.org/map
--- (can we have another example)
--- allmaps.org demo (need IIIF working)
 
-menti
-- what map-based interface works best
+We have a short quiz:
+
+- what map-based interface works best for you?
 - are there any map interfaces you've seen that we've missed?
-
 
 
 
@@ -183,6 +182,8 @@ At the end of the workshop we have another Menti quiz.
 
 
 ## References
+
+Adams, Benjamin, et al. ‘Frankenplace: Interactive Thematic Mapping for Ad Hoc Exploratory Search’. Proceedings of the 24th International Conference on World Wide Web [Florence Italy], 2015, pp. 12–22. DOI.org (Crossref), https://doi.org/10.1145/2736277.2741137.
 
 Michel, Jean-Baptiste, et al. ‘Quantitative Analysis of Culture Using Millions of Digitized Books’. Science, vol. 331, no. 6014, Jan. 2011, pp. 176–82. DOI.org (Crossref), https://doi.org/10.1126/science.1199644.
 
