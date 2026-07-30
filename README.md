@@ -131,7 +131,9 @@ We can upload this to https://iphylo.org/bhl-image-search/ and click **Find simi
 
 The CLIP model enables you to search for images based on text, foe example, here are the results for search for [red flowers](https://iphylo.org/bhl-image-search/?q=red+flowers&k=12):
 
-![imagesearch](imagesearch.png)
+![imagesearch](raw/main/imagesearch.png)
+
+
 
 Try this for yourself. For instance, search for "maps"
 
