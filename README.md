@@ -131,8 +131,7 @@ We can upload this to https://iphylo.org/bhl-image-search/ and click **Find simi
 
 The CLIP model enables you to search for images based on text, foe example, here are the results for search for [red flowers](https://iphylo.org/bhl-image-search/?q=red+flowers&k=12):
 
-![imagesearch](raw/main/imagesearch.png)
-
+![imagesearch](imagesearch.png)
 
 
 Try this for yourself. For instance, search for "maps"
@@ -162,6 +161,8 @@ In this part of the workshop we explore geographic interfaces to literature data
 ### BioStor map
 
 BioStor comprises the largest source of articles in BHL, and also serves as an experimental platform for displaying BHL content. For example, for each article BioStor finds in BHL it looks for latitude and longitude pairs in the text and puts those on a [map](https://biostor.org/map). You can browse the map, select regions, and see what papers mention those localities. You can also upload GeoJSON (e.g., for an island) and discover what papers include that region in their content.
+
+![zeroshot](biostormap.png)
 
 
 ### Putting maps on the map (Allmaps)
