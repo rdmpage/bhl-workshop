@@ -270,5 +270,10 @@ Michel, Jean-Baptiste, et al. ‘Quantitative Analysis of Culture Using Millions
 
 Pechenick, Eitan Adam, et al. ‘Characterizing the Google Books Corpus: Strong Limits to Inferences of Socio-Cultural and Linguistic Evolution’. PLOS ONE, edited by Alain Barrat, vol. 10, no. 10, Oct. 2015, p. e0137041. DOI.org (Crossref), https://doi.org/10.1371/journal.pone.0137041.
 
+## Quiz results
+
+![Any suggestions for how BHL displays content](results/Any suggestions for how BHL displays content.png)
+
+
 
 
