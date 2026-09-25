@@ -272,7 +272,8 @@ Pechenick, Eitan Adam, et al. ‘Characterizing the Google Books Corpus: Strong 
 
 ## Quiz results
 
-![Any suggestions for how BHL displays content](results/Any suggestions for how BHL displays content.png)
+![Any suggestions for how BHL displays content](results%2FAny%20suggestions%20for%20how%20BHL%20displays%20content.png)
+
 
 
 
