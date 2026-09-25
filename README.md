@@ -272,8 +272,28 @@ Pechenick, Eitan Adam, et al. ‘Characterizing the Google Books Corpus: Strong 
 
 ## Quiz results
 
-![Any suggestions for how BHL displays content](results%2FAny%20suggestions%20for%20how%20BHL%20displays%20content.png)
+Quiz results from informal Menti quiz run during the workshop.
 
+![How often do you use BHL.png](results/How%20would%20you%20describe%20yourself.png)
+![What is the most important thing about BHL for you.png](results/Should%20BHL%20have%20a%20challenge%20like%20GBIF.png)
+![Is being able to view BHL on a small screen important to you.png](results/What%20thing%20would%20you%20most%20like%20to%20see%20in%20a%20future%20BHL.png)
+![If BHL only displayed a PDF would that be OK.png](results/Was%20this%20workshop%20useful.png)
+![Any suggestions for how BHL displays content.png](results/Any%20thoughts%20on%20the%20use%20of%20AI%20(and%20ML)%20tools%20in%20BHL.png)
+![Is a timeline view of names useful.png](results/Is%20a%20chatbot%20interface%20to%20BHL%20useful.png)
+![Any suggestions forr other ways to display search results.png](results/How%20would%20you%20like%20to%20search%20map-based%20data%20in%20BHL.png)
+![Would image search be a useful addition to BHL.png](results/How%20important%20is%20having%20BHL%20on%20a%20map.png)
+![What would you use image search for.png](results/Best%20features%20for%20finding%20and%20exploring%20BHL.png)
+![What information would you most like to find more easily in BHL.png](results/What%20are%20best%20signals%20of%20reliability%20of%20extracted%20information.png)
+![What are best signals of reliability of extracted information.png](results/What%20information%20would%20you%20most%20like%20to%20find%20more%20easily%20in%20BHL.png)
+![Best features for finding and exploring BHL.png](results/What%20would%20you%20use%20image%20search%20for.png)
+![How important is having BHL on a map.png](results/Would%20image%20search%20be%20a%20useful%20addition%20to%20BHL.png)
+![How would you like to search map-based data in BHL.png](results/Any%20suggestions%20forr%20other%20ways%20to%20display%20search%20results.png)
+![Is a chatbot interface to BHL useful.png](results/Is%20a%20timeline%20view%20of%20names%20useful.png)
+![Any thoughts on the use of AI (and ML) tools in BHL.png](results/Any%20suggestions%20for%20how%20BHL%20displays%20content.png)
+![Was this workshop useful.png](results/If%20BHL%20only%20displayed%20a%20PDF%20would%20that%20be%20OK.png)
+![What thing would you most like to see in a future BHL.png](results/Is%20being%20able%20to%20view%20BHL%20on%20a%20small%20screen%20important%20to%20you.png)
+![Should BHL have a challenge like GBIF.png](results/What%20is%20the%20most%20important%20thing%20about%20BHL%20for%20you.png)
+![How would you describe yourself.png](results/How%20often%20do%20you%20use%20BHL.png)
 
 
 
